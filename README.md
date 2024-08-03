@@ -1,1 +1,2 @@
 # SalesPrediction
+## This project focuses on predicting Adidas sales using historical data from 2019 to 2021. By analyzing key factors such as price per unit, units sold, operating profit, operating margin, retailer, region, product type, and sales method, we aim to build a robust predictive model. The model will help forecast total sales accurately, providing valuable insights for strategic planning and decision-making.
